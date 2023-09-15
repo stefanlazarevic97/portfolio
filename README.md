@@ -1,4 +1,4 @@
-# [LIVE](https://elliotchang.dev/)
+# [Portfolio](https://elliotchang.dev/)
 
 
 <!-- # Free Personal Portfolio Template
